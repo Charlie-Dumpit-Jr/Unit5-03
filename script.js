@@ -1,3 +1,4 @@
+
 document.getElementById('results').addEventListener('click', reportResults)
 
 function reportResults() {
