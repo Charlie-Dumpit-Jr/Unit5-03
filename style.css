@@ -1,4 +1,9 @@
 
 body {
-  background-color: whitesmoke
+  background-color: whitesmoke;
+}
+
+#description {
+  font-family: monospace;
+  font-size: 25px;
 }
